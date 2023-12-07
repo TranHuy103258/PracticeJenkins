@@ -1,0 +1,6 @@
+
+p
+java:S1104"UMake cardTitle a static final constant or non-public and provide accessors if needed.(¹œöúşÿÿÿÿ
+h
+java:S1104"RMake labels a static final constant or non-public and provide accessors if needed.(«šÎŒ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒÃ¶Ûüÿÿÿÿ
